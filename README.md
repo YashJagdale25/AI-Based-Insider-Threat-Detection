@@ -1,7 +1,4 @@
-# AI-Based-Insider-Threat-Detection
-README.txt
 
-Project Title: Insider Threat Detection System
 
 Overview:
 ----------
